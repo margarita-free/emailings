@@ -1,0 +1,657 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+	<meta name="viewport" content="width=device-width" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+	<title style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">Template</title>
+	<style>
+		table {border-collapse:separate;}
+		.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 100%;}
+		.ExternalClass {width: 100%;}
+	</style>
+</head>
+
+<body itemscope="" itemtype="http://schema.org/EmailMessage" style="-webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; background-color: #fff; box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; height: 100%; line-height: 24px; margin: 0; width: 100% !important;background: #4a90e2;">
+<style>
+	@media only screen and (max-width: 596px) {
+		* {
+			border-spacing: 0;
+			border-collapse: collapse;
+		}
+		body {
+			padding: 0!important;
+		}
+		center {
+			min-width: 0!important;
+		}
+		img {
+			margin: 0 auto!important;
+		}
+		.header,
+		.footer {
+			padding: 12px!important;
+		}
+		.header td {
+			display: block;
+		}
+		.header-menu {
+			padding-top: 12px!important;
+			padding-bottom: 12px!important;
+			direction: rtl!important;
+		}
+		.header-action,
+		.header-phone {
+			width: 50%!important;
+			display: table-cell!important;
+		}
+		.header-action {
+			vertical-align: top;
+			padding-top: 3px!important;
+		}
+		.header-phone {
+			padding-top: 0!important;
+			text-align: left!important;
+		}
+		.header-logo {
+			border-top: 1px solid #979797;
+			padding-top: 24px!important;
+			padding-bottom: 6px!important;
+		}
+		.header-logo img {
+			margin: 0 auto!important;
+			float: none!important;
+		}
+		.footer-menu,
+		.footer-menu * {
+			font-size: 12px!important;
+		}
+		.main {
+			border: 0!important;
+		}
+		.alert {
+			padding: 12px;
+		}
+		.container {
+			padding: 0!important;
+			width: 100%!important;
+		}
+		.content {
+			padding: 0!important;
+		}
+		.content-wrap {
+			padding: 12px!important;
+		}
+		.content-bottom {
+			padding-bottom: 0!important;
+		}
+		.content-block-small,
+		.content-column {
+			padding-bottom: 12px!important;
+		}
+		.content-column,
+		.content-offset {
+			padding-left: 0!important;
+			padding-right: 0!important;
+		}
+		.content-items {
+			margin-bottom: 0!important;
+		}
+		.content-special {
+			padding-bottom: 12px!important;
+		}
+		.align-center,
+		.align-right,
+		.align-left {
+			text-align: center;
+		}
+		.align-center img,
+		.align-right img,
+		.align-left img {
+			margin: 0 auto!important;
+		}
+		.content-column-separator,
+		.content-block-small,
+		.content-column-block,
+		.content-block {
+			display: block!important;
+			width: 100%!important;
+		}
+		.content-column-minor {
+			width: 48px!important;
+		}
+		.content-column-major {
+			width: 40%!important;
+		}
+		.content-column-small,
+		.content-column-small * {
+			font-size: 14px!important;
+		}
+		.content-prefix {
+			font-size: 13px!important;
+		}
+		.content-column-left {
+			padding-right: 6px!important;
+			padding-left: 0!important;
+		}
+		.content-column-right {
+			padding-right: 0!important;
+			padding-left: 6px!important;
+		}
+		.content-column-middle {
+			padding-right: 6px!important;
+			padding-left: 6px!important;
+		}
+		.content-none {
+			display: none!important;
+		}
+		.btn-primary {
+			width: 100%;
+		}
+		.float-left {
+			margin-right: 6px!important;
+		}
+		.float-right {
+			margin-left: 6px!important;
+		}
+	}
+</style>
+<div style="background: #4a90e2;">
+<table class="body-wrap" style=" box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 0px; line-height: 24px; margin: 0; width: 100%;background: #4a90e2;"> <div><span style="color:  #4a90e2;font:  0px Helvetica, sans-serif;">Срочное в июньском номере. Читать сейчас</span></div>
+	<tbody>
+	<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+		<td class="container" style="box-sizing: border-box; clear: both !important; display: block !important; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0 auto !important; max-width: 680px !important; vertical-align: middle;">
+			<center style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; min-width: 680px; width: 100%;">
+				<!--[if (gte mso 9)|(IE)]>
+				<table width="680" align="center"><tr><td style="padding-top:0; padding-bottom:0; padding-right:0; padding-left:0; margin:0px;">
+				<![endif]-->
+
+				<!-- header -->
+				<div class="header" style="box-sizing: border-box; clear: both; color: #000; display: block; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0 auto; max-width: 680px; padding: 0 24px;">
+					<table width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; color: #000; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; line-height: 18px; margin: 0;">
+						<tbody>
+
+						<tr>
+									<td style="vertical-align: top" valign="top">
+									<p style="line-height: 1.5; margin-top: 0; margin-bottom: 7px; color: #f0f0f0; font-size: 12px; font-family: arial,helvetica,sans-serif; text-align:center;">Добавьте наш адрес reply@mail.e-fd.ru в адресную книгу, чтобы письма не попадали в спам<br>Если данное сообщение отображается некорректно, перейдите по <a href="[% param.issue_archive_url %]">ссылке</a></p>
+									</td>
+								</tr>
+						</tbody>
+					</table>
+					<table width="100%" dir="rtl" style="box-sizing: border-box; color: #000; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; line-height: 18px; max-width: 680px; margin: 0;">
+						<tbody>
+
+						<tr style="box-sizing: border-box; color: #000; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; line-height: 18px; margin: 0;background-color:#fff;">
+							<td class="align-center" style="box-sizing: border-box; color: #000; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; line-height: 18px; margin: 0; text-align: center; vertical-align: middle;">
+								<table width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; color: #000; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; line-height: 18px; max-width: 680px; margin: 0;">
+									<tbody>
+									<tr>
+															<td align="left" dir="rtl" valign="bottom"><!--[if (gte mso 9)|(IE)]>
+																		<table align="center" border="0" cellspacing="0" cellpadding="0" width="680">
+																		<tr>
+																		<td align="right" width="50%" dir="rtl">
+																		<![endif]--><!-- Item -->
+															<div style="float: right; min-width: 270px; display: inline-block;width: 50%;">
+															<table align="right" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" width="270">
+																<tbody>
+																	<tr>
+																		<td align="right" dir="ltr" valign="bottom">
+																		<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate;" width="270">
+																			<tbody>
+																				<tr>
+																					<td align="right" style="padding: 20px 30px 10px 30px; color:#6f6f6f; font: 18px/20px Arial, sans-serif;letter-spacing: 0.01em;" valign="bottom"><img alt="" height="18" src="https://www.gazeta-unp.ru/images/mail/UNP/mail_logo_action_MCFER.png" style="border: 0 none; text-decoration:none;" valign="bottom" width="104" /><br />
+																					<a href="tel:88005500798" style="text-decoration:none;color:#000;"><nobr>8&nbsp;800&nbsp;550-07-98</nobr> </a><br />
+																					<span style="font: 11px/14px Arial, sans-serif;">звонок бесплатный</span></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</div>
+															<!-- Item END--><!--[if (gte mso 9)|(IE)]>
+																		</td><td align="left" width="50%">
+																		<![endif]--><!-- Item -->
+
+															<div style="float: left; display: inline-block; width: 274px;">
+															<table align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" width="274">
+																<tbody>
+																	<tr>
+																		<td align="left" valign="middle">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+																			<tbody>
+																				<tr>
+																					<td align="left" style="padding: 25px 0px 10px 20px;font: 12px/20px Helvetica, sans-serif;" valign="bottom"><a href="[% action_autologin_utm('https://fd.ru') %]"
+																		                      rel="noopener external" target="_blank"><img alt="" height="auto" src="http://target.fd.ru/storage/app/media/mail/FD_logo_new.png" style="border: 0 none; text-decoration:none;" valign="bottom" width="250" /></a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</div>
+															<!--[if (gte mso 9)|(IE)]>
+																		</td>
+																		</tr>
+																		</table>
+																		<![endif]--></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!--[if gte mso 9]>
+								</td>
+							</tr>
+							</table>
+							<![endif]--></td>
+					</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						</tbody>
+					</table>
+
+				</div>
+<!--[if (gte mso 9)|(IE)]>
+																		<table align="center" border="0" cellspacing="0" cellpadding="0" width="680">
+																		<tr>
+																		<td>
+																		<![endif]--><!-- Item -->
+				<div width="680" class="content" style="box-sizing: border-box; display: block; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0 auto; max-width: 680px; padding: 0 24px;background: #4a90e2;">
+					<table class="main" width="100%" cellpadding="0" cellspacing="0" style="background-color: #ffffff; border: none; border-radius: 5px; box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+						<!-- 1st block -->
+						<tbody>
+						    <tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                            <td class="content-special" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; vertical-align: middle;">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                    <tbody>
+                                    <tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                        <td class="align-center" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; text-align: center; vertical-align: middle;">
+<a href="[% action_autologin_utm('https://new.bill.fd.ru/bill/13_2_12/a_emag_12_5_fd_trade_21_1.html') %]">
+                                            <img src="http://target.fd.ru/storage/app/media/mail/20190527-fd-rocket-1.gif" alt="" style=" box-sizing: border-box; display: block; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; max-width: 100%; vertical-align: middle;" width="680"></a>
+                                            <!--
+                                                          -->
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+						<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+							<td class="content-wrap" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 24px; vertical-align: middle;">
+								<table width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+									<tbody style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+									<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+										<td class="content-block" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 0 0 24px; vertical-align: middle;">
+											<table width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+												<tbody>
+													<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+													<td class="content-portrait content-image" style="border-radius: 50%; box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding-right: 24px !important; text-align: left; vertical-align: middle; width: 104px !important;">
+														 <a href="[% action_autologin_utm('https://new.bill.fd.ru/bill/13_2_12/a_emag_12_5_fd_trade_21_1.html') %]"
+                                                                                              rel="noopener external" target="_blank"><img src="http://target.fd.ru/storage/app/media/mail/face.png" width="120" alt="" style="border-width:0;height:auto;max-width:70px;"></a>
+													</td>
+
+													<td class="content-author" style="padding-bottom:0px;padding-right:0px;padding-left:0px;padding-top:5px;text-align:left;">
+														<b style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">Екатерина Жилякова</b>, <br>                                   редакция журнала </br>&laquo;<a href="[% action_autologin_utm('https://e.fd.ru') %]"
+                                                                                              rel="noopener external" style="color:#333333;" target="_blank"><span style="color: #333333; line-height: 17px;"><u><span style="font-size: 14px; line-height: 17px;"><strong>Финансовый директор</strong></span></u></a>&raquo;
+													</td>
+												</tr>
+												</tbody>
+											</table>
+										</td>
+									</tr>
+									<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+										<td class="content-block content-offset" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 0 0 24px; padding-left: 24px; padding-right: 24px; vertical-align: middle;">
+											<h1 style="box-sizing: border-box; font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 26px; font-weight: 500; line-height: 35px; margin: 20px 0 0; mso-line-height-rule: exactly;">Здравствуйте, [% IF anketa.id2.FirstName %][% anketa.id2.FirstName %][% ELSE %]дорогой коллега[% END %]!</h1>
+										</td>
+									</tr>
+									<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+										<td class="content-block content-offset" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 10px 0px 0px 24px; padding-left: 24px; padding-right: 24px; vertical-align: middle;">
+									31&nbsp;мая выходит июньский номер журнала &laquo;Финансовый директор&raquo;. В&nbsp;этом номере&nbsp;Вы узнаете обо всех нововведениях в&nbsp;налогах и&nbsp;учете, сможете воспользоваться интерактивной моделью для сокращения расходов на&nbsp;оплату труда и&nbsp;многое другое.
+
+										</td>
+									</tr>
+									<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+										<td class="content-block content-offset" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 10px 0px 0px 24px; padding-left: 24px; padding-right: 24px; vertical-align: middle;">
+									Самое время оформить подписку на&nbsp;журнал. У&nbsp;Вас пока ещё есть возможность оформить годовую подписку по&nbsp;цене <b>11&nbsp;990 рублей</b> (обычная цена: <s>22&nbsp;308&nbsp;</s>рублей).
+
+										</td>
+									</tr>
+	<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+										<td class="content-block content-offset" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 10px 0px 20px 24px; padding-left: 24px; padding-right: 24px; vertical-align: middle;">
+										Осталось всего <b><a href="[% action_autologin_utm('https://new.bill.fd.ru/bill/13_2_12/a_emag_12_5_fd_trade_21_1.html') %]">4 дня</a></b> до конца акции! Не упустите свою выгоду. Оплатите счёт сегодня! Для оплаты картой просто ответьте на это письмо.
+
+										</td>
+									</tr>
+
+	<tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+										<td class="content-block content-offset" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 24px; margin: 0; padding: 0 0 24px; padding-left: 24px; padding-right: 24px; vertical-align: middle;">
+										    <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate;">
+																<tbody>
+																	<tr>
+																		<td align="center" style="color: #1d1d1d;font:  18px Helvetica, sans-serif;padding: 10px 10px 10px 10px;background-color:#dd1c24;border-radius: 4px;" valign="top"><a href="[% action_autologin_utm('https://new.bill.fd.ru/bill/13_2_12/a_emag_12_5_fd_trade_21_1.html') %]"  rel="noopener external" style="color: #404041;text-decoration:none;" target="_blank"><span style="color:#ffffff;">Оплатить счет</span></a></td>
+																	</tr>
+																</tbody>
+															</table>
+
+
+										</td>
+									</tr>
+									<div class="content" style="box-sizing: border-box; display: block; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0 auto; max-width: 680px; padding: 0 24px;">
+                    <table class="main" width="100%" cellpadding="0" cellspacing="0" style="background-color: #ffffff; ; border-radius: 5px; box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                        <!-- 2nd block -->
+                        <tbody>
+                        <tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                            <td class="content-wrap" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 24px; vertical-align: middle;">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                    <tbody style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                    <tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                        <td class="content-block content-offset" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 0 0 24px; padding-left: 24px; padding-right: 24px; vertical-align: middle;">
+                                            <h2 style="box-sizing: border-box; font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 22px; font-weight: 400; line-height: 30px; margin: 20px 0 0; mso-line-height-rule: exactly;text-align:center;">Как вы оцениваете рассылки от издания "Финансовый Директор"?</h2>
+                                        </td>
+                                    </tr>
+                                    <tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;text-align:center;">
+                                        <td class="content-block content-offset" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 0 0 24px; padding-left: 24px; padding-right: 24px; vertical-align: middle;">
+                                            <table class="content-items" width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; margin-bottom: 20px;">
+                                                <tbody style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                                <tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;text-align:center;">
+                                                    <td class="content-column-small content-column-left content-column content-column-lined content-column-2" style=" box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; margin: 0; padding: 12px 0 0 0; padding-bottom: 12px; vertical-align: top; width: 279px;">
+                                                        <a href="[% action_autologin_utm('https://fd.ru/podpiska?from=good_mail#home') %]" style="box-sizing: border-box; color: #348eda; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; text-decoration: underline;"><img src="http://target.fd.ru/storage/app/media/mail/Yes.jpg" width="75"></a>
+                                                    </td>
+                                                    <td class="content-column-separator content-column-lined" style=" box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding-bottom: 12px; vertical-align: middle; width: 24px;">
+                                                        <div style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;"></div>
+                                                    </td>
+                                                    <td class="content-column-small content-column-right content-good content-column content-column-lined content-column-2" style=" box-sizing: border-box; color: #00bf79; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; margin: 0; padding: 12px 0 0 0; padding-bottom: 12px; vertical-align: top; width: 279px;">
+                                                        <a href="https://forms.gle/WSP1MQaS2d2VGJyR7" style="box-sizing: border-box; color: #00bf79; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; text-decoration: underline; target="_blank"><img src="http://target.fd.ru/storage/app/media/mail/No.jpg" width="75"></a>
+                                                    </td>
+                                                </tr>
+                                                <tr style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;text-align:center;">
+                                                    <td class="content-column-small content-column-left content-column content-column-lined content-column-2" style=" box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; margin: 0; padding: 12px 0 0 0; padding-bottom: 12px; vertical-align: top; width: 279px;text-align:center;">
+                                                         <a href="[% action_autologin_utm('https://fd.ru/podpiska?from=good_mail#home') %]" style="box-sizing: border-box; color: #0deb9e; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; text-decoration: underline;"> Все хорошо</a>
+                                                    </td>
+                                                    <td class="content-column-separator content-column-lined" style=" box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding-bottom: 12px; vertical-align: middle; width: 24px;text-align:center;">
+                                                        <div style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;text-align:center;"></div>
+                                                    </td>
+                                                    <td class="content-column-small content-column-right content-bad content-column content-column-lined content-column-2" style=" box-sizing: border-box; color: #f14a50; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; margin: 0; padding: 12px 0 0 0; padding-bottom: 12px; vertical-align: top; width: 279px;text-align:center;">
+                                                        <table width="100%" cellpadding="0" cellspacing="0" style="box-sizing: border-box; color: #f14a50; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                                            <tbody style="box-sizing: border-box; color: #f14a50; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;">
+                                                            <tr style="box-sizing: border-box; color: #f14a50; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;text-align:center;">
+                                                               <td class="content-column-separator content-column-lined" style=" box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding-bottom: 12px; vertical-align: middle; width: 24px;">
+                                                        <div style="box-sizing: border-box; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0;"></div>
+                                                    </td>
+                                                                <td style="box-sizing: border-box; color: #f14a50; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; vertical-align: middle;text-align:center;">
+                                                                    <a href="https://forms.gle/WSP1MQaS2d2VGJyR7" style="box-sizing: border-box; color: #f14a50; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; text-decoration: underline;text-align:center;" target="_blank">Все плохо</a>
+                                                                </td>
+
+                                                            </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <!-- // 2nd block -->
+                        </tbody>
+                    </table>
+                </div>
+<tr data-element-type="text" style="color:#333333;">
+                    <td style="padding-bottom:40px;padding-right:30px;padding-left:30px;padding-top:0px;">
+                        <p align="left" style="word-break:break-word;margin:0; line-height:16.8px;"data-lineHeightRatio=1.2><span style="font-size: 16px; line-height: 19.2px;"><br />Екатерина Жилякова, <br />главный редактор журнала &laquo;<a href="[% action_autologin_utm('https://fd.ru') %]"
+																		                      rel="noopener external" style="color:#333333;" target="_blank"><span style="color: #333333; line-height: 16.8px;"><u><span style="font-size: 16px; line-height: 19.2px;"><strong>Финансовый директор</strong></span></u></a>&raquo;</span></p>
+                    </td>
+                </tr>
+
+									</tbody>
+								</table>
+
+							</td>
+						</tr>
+
+
+
+
+
+
+
+
+<tr>
+
+						</tr>
+						<!-- // 2nd block -->
+						</tbody>
+					</table>
+				</div>
+
+
+
+
+				<!--[if gte mso 9]>
+								</td>
+							</tr>
+							</table>
+							<![endif]-->
+
+				<!-- footer -->
+				<!--[if (gte mso 9)|(IE)]>
+																		<table align="center" border="0" cellspacing="0" cellpadding="0" width="680">
+																		<tr>
+																		<td>
+																		<![endif]--><!-- Item -->
+
+				<div class="footer" style="box-sizing: border-box; clear: both; color: #b3b3b3; display: block; font-family: 'Proxima Nova Rg', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0 auto; max-width: 680px; padding: 0 24px;background: #4a90e2;">
+					 <table data-block-id="" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%;background-repeat: no-repeat;">
+            <tbody>
+                <tr>
+                    <td style="font-size: 0;line-height: 10px;">&nbsp;</td>
+                    <td data-template-content="" width="600" align="top" style="width:600px;padding-left:0px;padding-right:0px;background-repeat: no-repeat;">
+                        <div style="max-width:600px;">
+                            <!--[if (gte mso 9)|(IE)]>
+                                <table width="600" align="center" style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;" >
+                                    <tr>
+                                        <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+                            <![endif]-->
+                            <table align="center" style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;margin:0 auto;width:100%;max-width:600px;">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding-right:0;padding-left:0;text-align:center;font-size:0;padding-top:0;padding-bottom:0;">
+    <!--[if (gte mso 9)|(IE)]>
+        <table width="100%" style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;" >
+            <tr>
+    <![endif]-->
+
+
+            <!--[if (gte mso 9)|(IE)]>
+                <td width="600" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+            <![endif]-->
+            <div data-column style="width:100%;display:inline-block;vertical-align:top;max-width:600px;">
+                <table style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="padding-bottom:0px;padding-right:0px;padding-left:0px;padding-top:0px;">
+                                <table data-column-content style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;width:100%;font-size:14px;text-align:center;">
+    <tbody>
+
+
+
+                <tr data-element-type="image">
+
+                                                <td align="center" style="padding-top:30px;padding-bottom:0px;padding-right:5px;padding-left:5px;">
+
+                                                  <a target="_blank" href="https://vk.com/fin__dir"><img src="https://fd.ru/images/banners/vk.png" width="41" alt="" style="border-width:0;height:auto;max-width:41px;"></a>
+                                                    <a target="_blank" href="https://twitter.com/fin_dir"><img src="https://fd.ru/images/banners/tw.png" width="41" alt="" style="border-width:0;height:auto;max-width:41px;"></a>
+                                                     <a target="_blank" href="https://www.facebook.com/www.fd.ru"><img src="https://fd.ru/images/banners/fb.png" width="41" alt="" style="border-width:0;height:auto;max-width:41px;"></a>
+
+
+                                                </td>
+
+                                              </tr>
+
+
+    </tbody>
+</table>
+
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+             <!--[if (gte mso 9)|(IE)]>
+                </td>
+            <![endif]-->
+
+
+    <!--[if (gte mso 9)|(IE)]>
+            </tr>
+        </table>
+    <![endif]-->
+</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!--[if (gte mso 9)|(IE)]>
+                                        </td>
+                                    </tr>
+                                </table>
+                            <![endif]-->
+                        </div>
+                    </td>
+                    <td style="font-size: 0;line-height: 10px;">&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+
+
+
+
+
+
+        <table data-block-id="" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%;background-repeat: no-repeat;background: #4a90e2;">
+            <tbody>
+                <tr>
+                    <td style="font-size: 0;line-height: 10px;">&nbsp;</td>
+                    <td data-template-content="" width="600" align="top" style="width:600px;padding-left:0px;padding-right:0px;background-repeat: no-repeat;">
+                        <div style="max-width:600px;">
+                            <!--[if (gte mso 9)|(IE)]>
+                                <table width="600" align="center" style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;" >
+                                    <tr>
+                                        <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+                            <![endif]-->
+                            <table align="center" style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;margin:0 auto;width:100%;max-width:600px;">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding-right:0;padding-left:0;text-align:center;font-size:0;padding-top:0;padding-bottom:0;">
+    <!--[if (gte mso 9)|(IE)]>
+        <table width="100%" style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;" >
+            <tr>
+    <![endif]-->
+
+
+            <!--[if (gte mso 9)|(IE)]>
+                <td width="600" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+            <![endif]-->
+            <div data-column style="width:100%;display:inline-block;vertical-align:top;max-width:600px;">
+                <table style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="padding-bottom:0px;padding-right:0px;padding-left:0px;padding-top:0px;">
+                                <table data-column-content style="border-spacing:0;font-family:Arial, Helvetica, sans-serif;color:#333333;width:100%;font-size:14px;text-align:center;">
+    <tbody>
+
+
+
+                <tr data-element-type="spacer">
+                    <td height="20" style="height:20px;padding:0;"></td>
+                </tr>
+
+
+
+
+                <tr data-element-type="text" style="color:#fffffff;">
+                    <td style="padding-bottom:25px;padding-right:25px;padding-left:25px;padding-top:10px;">
+                        <p align="center" style="word-break:break-word;margin:0; line-height:16.8px;"data-lineHeightRatio=1.2><font color="#fffffff"><span style="font-size: 12px; line-height: 14.4px;">Вы&nbsp;получили эту рассылку, потому что подписались с&nbsp;адресом [% anketa.member.email %] на&nbsp;сайте журнала &laquo;Финансовый директор&raquo;.
+																	Если мы&nbsp;обращаемся к&nbsp;Вам неправильно, пожалуйста, измените <a href="https://id2.action-media.ru/Personal/About?from=profileKPI_fpi" target="_blank" style="color:#1657a7"><span style="color:#1657a7">данные Вашего профиля</span></a>.
+																	Нам будет очень жаль, но&nbsp;при желании&nbsp;Вы можете <a href="[% action_autologin('https://id2.action-media.ru/subscriptions/detail?id=401&group=recommended') %]" target="_blank" style="color:#1657a7"><span style="color:#1657a7">отписаться от&nbsp;рассылки &laquo;Новости сайта&raquo;</span></a>. Если Вы&nbsp;получили письмо на&nbsp;другой адрес, возможно, у&nbsp;Вас настроена переадресация. Проверьте настройки своей электронной почты или обратитесь к&nbsp;нам в&nbsp;ответе на&nbsp;данное письмо.<br/>
+																Хотите оплатить картой? Пришлите ответ на это письмо с Вашим запросом!</p>
+                    </td>
+                </tr>
+
+
+    </tbody>
+</table>
+
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+             <!--[if (gte mso 9)|(IE)]>
+                </td>
+            <![endif]-->
+
+
+    <!--[if (gte mso 9)|(IE)]>
+            </tr>
+        </table>
+    <![endif]-->
+</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!--[if (gte mso 9)|(IE)]>
+                                        </td>
+                                    </tr>
+                                </table>
+                            <![endif]-->
+                        </div>
+                    </td>
+                    <td style="font-size: 0;line-height: 10px;">&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+				</div>
+
+				<!--[if (gte mso 9)|(IE)]>
+				</td></tr></table><![endif]-->
+			</center>
+		</td>
+	</tr>
+	</tbody>
+</table>
+
+</div>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
